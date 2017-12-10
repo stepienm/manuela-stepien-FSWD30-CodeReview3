@@ -1,0 +1,72 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	width: 100%;
+	font-family:verdana;
+}
+
+.headerdiv{
+	background-color: #f2f2f2;
+	color: orange;
+	font-size:40px;
+	height:160px;
+
+	margin: 0px;
+	border-radius: 0px;
+	font-family: verdana;
+	
+margin-top: 0px;
+width: 1348px;
+	
+}
+
+	.pheader {
+		text-align: center;
+		vertical-align: left;
+	line-height: normal;
+		font-family: verdana;
+	}
+
+
+.input{
+	float: center;
+	background-color: #336699;
+	height: 260px;
+	color: white;
+	padding: 90px;
+	font-size:18px;
+}
+
+form {
+	text-align: center;
+}
+
+button {
+	padding: 7px 30px;
+	border-radius: 16px;
+	color: #264d73;
+	background-color: ##E1DFDC;
+	font-size:22px;
+	border-color: black;
+	margin-top: 1%;
+	text-align: center;
+}
+
+button:hover{
+	color: white;
+	background: #FA793B;
+}
+
+.footer {
+	height: 120px;
+	line-height: 100px;
+	display: block;
+	background-color: #f2f2f2;
+	text-align: center;
+	overflow: hidden;
+	font-size: 26px;
+}
+

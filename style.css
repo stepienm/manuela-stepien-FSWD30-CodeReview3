@@ -1,0 +1,108 @@
+.bodydiv {
+	width: 100%;
+}
+
+.h2{
+	color:#004d39;
+	background-color: #009973;
+	margin: 0px;
+	border-radius: 0px;
+	font-family: verdana;
+	height: 100px;
+margin-top:-25px;
+width: 1340px;
+text-align: center;
+font-size:33px;
+}
+
+.headerdiv{
+	background-color: #f2f2f2;
+	color: orange;
+	font-size:40px;
+	height:150px;
+
+	margin: 0px;
+	border-radius: 0px;
+	font-family: verdana;
+	
+margin-top:-28px;
+width: 1340px;
+	
+}
+
+	.pheader {
+		text-align: center;
+		vertical-align: left;
+		line-height: normal;
+		font-family: verdana;
+	}
+
+	.container {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 60px;
+	text-align: center;
+	height:80px;
+	}
+
+.Bild {
+	background-color: #009973;
+	font-family: verdana;
+	max-width: 1350px;
+	margin: -20 auto 0 auto;
+	display:flex;
+	justify-content: space-between;
+	text-align: center;
+	width: 1340px;
+}
+
+#namePerson {
+	color: white;
+	font-size:30px;
+	
+}
+
+#namePerson {
+	color: white;
+	font-size:30px;
+
+}
+
+.h4 {
+	color: white;
+}
+
+button {
+
+	margin-top: 100px;
+	padding: 20px 70px;
+	
+	color: #004d39;
+	background-color: white;
+	border-radius:10px;
+	font-size:30px;
+	font-family: verdana;
+	box-shadow: 0px 5px 10px +8px;
+
+}
+
+
+.knopf{
+	text-align:center;
+}
+
+
+.ground {
+	background-color: #f2f2f2;
+	margin: 0px;
+	border-radius: 0px;
+	height: 250px;
+	margin-top:0px;
+	width: 1340px;
+
+}
+
+.checkPricesWrapper {
+	display: block;
+	text-align:center;
+}
